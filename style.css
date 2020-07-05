@@ -1,0 +1,42 @@
+
+body img{
+    width: 100%;
+}
+body{
+    margin: 5%;
+    margin-right: 5%;
+}
+section{
+    height: 400px;
+}
+.third-width{
+    width: 30%;
+    float: left;
+}
+.text-centre{
+    text-align: center;
+}
+#contact-id{
+    background-color: violet;
+    padding: 10px 20px;
+    border-radius: 5px;
+    height: 100px;
+    margin-top: 25%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    }
+    .no-underline{
+        text-decoration: none;
+        background-color: violet;
+        border-radius: 5px;
+        padding: 10px 10px 20px 10px;
+    }
+    
+
+
+
+.half-width{
+    width: 40%;
+    float: left;
+}
